@@ -51,7 +51,7 @@
                         <p>Stay Connected</p>
                     </div>
                     <div class="w3-col s3">
-                        <i class="fa fa-smile-o w3-text-black w3-jumbo"></i>
+                        <i class="fa fa-smile w3-text-black w3-jumbo"></i>
                         <p>Keep Smiling</p>
                     </div>
                     <div class="w3-col s3">
